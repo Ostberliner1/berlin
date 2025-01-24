@@ -23,5 +23,3 @@ scheiss auf diese Standardlines,
 </ul>
 </body>
 
-<img src="https://epg-image.zdf.de/fotobase-webdelivery/images/aceb10d0-c7c7-4b8f-bf48-8e4d793a23aa?layout=preview">
- [(Patricks Lieblingsrezept)](https://www.chefkoch.de/rezepte/689991171467187/Huehnerfrikassee.html)
