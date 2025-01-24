@@ -11,7 +11,7 @@ ganz allein und frei,
 
 scheiss auf diese Standardlines,
 
-<!DOCTYPE html>
+... html>
 <html>
 <head>
     <title>IT PROGRAM</title>
@@ -20,3 +20,4 @@ scheiss auf diese Standardlines,
     <h1>ich habe den html code lediglich kopier und bin mir gerade nicht sicher ob das die aufgabe war</h1>
 </body>
 </html>
+...
