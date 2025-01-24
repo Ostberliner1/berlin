@@ -6,4 +6,5 @@ durchdrehen.
 
 Veräderung
 Ich wollte schon immer etwas anders sein.
-scheiss auf Standartlines
+ganz allein und frei
+scheiss auf diese Standartlines,
