@@ -13,10 +13,12 @@ scheiss auf diese Standardlines,
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>GitHub Übung</title>
-</head>
 <body>
-    <h1>ich habe den html code lediglich kopiert und bin mir gerade nicht sicher ob das die aufgabe war<h1>
+    <h2>Html-Liste</h2>
+</ul>
+<li> Bier </li>
+<li> Musik </li>
+<li> Frauen </li>
+</ul>
 </body>
 </html>
